@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="hint_task_input">Type in a new task here</string>
+    <string name="button_add">ADD</string>
+    <string name="button_delete">DELETE</string>
+    <string name="button_clear">CLEAR</string>
+
+    <string-array name="task_options">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+    <string name="hint_task_index">Enter the index of the task to remove</string>
+
+</resources>
